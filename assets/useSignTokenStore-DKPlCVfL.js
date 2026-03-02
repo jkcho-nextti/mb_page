@@ -1,1 +1,0 @@
-import{n,o as i}from"./index-CnMA7Fj_.js";const g=n()(i(o=>({signToken:void 0,signImage:void 0,signStateCd:void 0,setSignToken:e=>o({signToken:e}),setSignImage:e=>o({signImage:e}),setSignStateCd:e=>o({signStateCd:e})}),{name:"SignTokenStore"}));export{g as u};
