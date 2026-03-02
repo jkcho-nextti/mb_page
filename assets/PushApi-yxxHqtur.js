@@ -1,0 +1,1 @@
+import{q as e,A as s}from"./index-CnMA7Fj_.js";const n={pushs(t){return e.getInstance().request(s.PUSH,t)},pushNoticeList(){return e.getInstance().request(s.PUSH_NOTICE_LIST)},setNoticeList(t){return e.getInstance().request(s.MOD_PUSH_NOTICE,t,"path")},setNoticeRead(t){return e.getInstance().request(s.MOD_PUSH_READ,t,"params")}};export{n as P};

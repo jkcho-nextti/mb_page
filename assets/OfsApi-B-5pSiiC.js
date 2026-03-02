@@ -1,0 +1,1 @@
+import{q as e,A as t}from"./index-CnMA7Fj_.js";import{M as r}from"./MfsFileAxios-BCeEZrd1.js";const a={ofsContDetailSignature(s){return e.getInstance().request(t.OFS_CONT_DETAIL_SIGNATURE,s)},ofsRegisterSignature(s){return r.getInstance().request(t.OFS_CONT_REGISTER_SIGNATURE,s)}};export{a as O};

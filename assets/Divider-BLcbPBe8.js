@@ -1,0 +1,1 @@
+import{c as h,j as a}from"./index-CnMA7Fj_.js";function p(d){const t=h.c(6),{height:n,bgColor:o,children:s}=d,l=n===void 0?6:n,r=l?`${l}px`:void 0;let e;t[0]!==o||t[1]!==r?(e={height:r,backgroundColor:o},t[0]=o,t[1]=r,t[2]=e):e=t[2];const c=e;let i;return t[3]!==s||t[4]!==c?(i=a.jsx("div",{className:"ui-divider",style:c,children:s}),t[3]=s,t[4]=c,t[5]=i):i=t[5],i}export{p as D};

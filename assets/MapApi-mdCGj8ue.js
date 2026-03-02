@@ -1,0 +1,1 @@
+import{q as e,A as s}from"./index-CnMA7Fj_.js";const n={searchBranchList(t){return e.getInstance().request(s.BRANCH_LIST,t)},userAttdList(t){return e.getInstance().request(s.USER_ATTD_LIST,t)},registerUserAttdList(t){return e.getInstance().request(s.REGISTER_USER_ATTD,t)}};export{n as M};
