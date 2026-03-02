@@ -1,0 +1,1 @@
+import{c as m,r as n}from"./index-DHVVQSPP.js";function u(t){const e=m.c(3);let o,s;e[0]!==t?(o=()=>{if(!t)return;const c=`-${t}`;return document.documentElement.classList.add(c),document.body.classList.add(c),()=>{document.documentElement.classList.remove(c),document.body.classList.remove(c)}},s=[t],e[0]=t,e[1]=o,e[2]=s):(o=e[1],s=e[2]),n.useEffect(o,s)}export{u};

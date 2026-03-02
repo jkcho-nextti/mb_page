@@ -1,1 +1,0 @@
-import{n as o,o as t}from"./index-CzkBmwLH.js";const m=o()(t(e=>({kTPData:void 0,imageBase64:void 0,nm:void 0,eauthSeqNo:void 0,setKTPData:a=>e({kTPData:a}),setImageBase64:a=>e({imageBase64:a}),setNm:a=>e({nm:a}),setEauthSeqNo:a=>e({eauthSeqNo:a})}),{name:"EkycOCRStore"}));export{m as u};

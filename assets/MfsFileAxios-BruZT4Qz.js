@@ -1,0 +1,1 @@
+import{aa as s}from"./index-DHVVQSPP.js";class t extends s{static contentType="multipart/form-data";static axiosInstance;constructor(){super("",t.contentType)}static getInstance(){return this.axiosInstance||(this.axiosInstance=new t),this.axiosInstance}async uploadRequest(a,n,e){return{}}}export{t as M};
